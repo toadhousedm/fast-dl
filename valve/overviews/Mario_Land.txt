@@ -1,0 +1,18 @@
+// overview description file for DocRock's Mario_Land.bsp
+// overview done by qUiCkSiLvEr
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 0.81, Map Origin (64.00, 303.88, 16.00), Z Min 3969.00, Z Max -3937.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	0.81
+	ORIGIN	64.00 303.88 16.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/Mario_Land.bmp"
+	HEIGHT	-3937.00
+}

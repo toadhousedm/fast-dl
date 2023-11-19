@@ -1,0 +1,120 @@
+=======================================================
+Mario Land by DocRock
+=======================================================
+
+Map Name:                       mario_land.bsp
+Filesize:                       1.77 mb
+Author:                         DocRock
+Author email:                   docrock64@cox.net
+Homepage:                       http://www.planethalflife.com/docrocksmaps
+
+wadincluded in map:             mario.wad
+
+Included with this map is a Mario player model and a Luigi player model.
+Use them to jump and run in the mario_land environment of the map.
+Place the mario.mdl and the luigi.mdl in your valve/models/player folder.
+
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:                  No
+Co-Op:                          No
+Deathmatch:                     Yes
+
+Suggested Players:              8 - 15
+New Textures:                   Yes 
+New Sounds:                     Yes
+New Models:                     Yes (Mario & Luigi)
+
+Map description:                A Half-Life deathmatch map set in the famous world of
+                                Nintendo 64's Mario 64.
+
+=======================================================
+CONSTRUCTION:
+
+base map:                       Castle area and Wall world in Mario 64
+prefabs:                        None
+editor used:                    Worldcraft 3.4 Hammer
+utilities used:                 Zoner's Half-Life compile tools, Paintshop Pro 7, Wally
+known bugs:                     None
+compile machine:                AMD Athlon XP 1600  1.39 GHz  448 mb of RAM
+compile time:                   1 hour 30 minutes
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip mario_land.zip.
+Open the mario_land folder and place the mario_land.bsp, mario_land.res, and mario_land.txt
+in your valve/maps folder.  Place the 6 (six) grass.tga files into your valve/gfx/env folder.
+Place the 8 wav files in a folder called mario and place that in your valve/sound folder.
+Place the mario_land overview files in your valve/overviews folder. Open the models folder
+and place the mario folder in your valve/models/player folder and place the luigi folder
+in your valve/models/player folder.  Place the spinning_coin.spr and cloud.spr in your
+valve/sprites folder.  Open the overviews folder and place the mario_land.bsp and
+mario_land.txt in your valve/overviews folder. Place the cannon_guy.mdl in your
+valve/models folder.
+
+If you'd like a copy of the mario.wad, email me and I'll send it to you.  docrock64@cox.net
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+greyscale, kitkat_express, kitkat_factory, hardcore, kitkat_beach, kitkat_klub, Get_Shorty,
+Farmland2, Cliffside2, Tigger, Scooby_Doo, LOML_Palace, DepotArena, Conundrum, Conundrum 2,
+The Challenger Deep...etc
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby
+for playtesting and helping me with this awesome map!  I DEDICATE THIS TO YOU!
+
+To qUiCkSiLvEr for the mario player model,  the overviews, and all the superior technical work!
+Your wisdom and help on this project was as always phenomenal and well done so much more than I
+could ever imagine.  Your help with wavs, textures, and the outstanding Mario model is absolute
+perfection.  Your work on this map has helped me to achieve a dream I've always wanted to do...
+to make a Mario Half-Life map!  TAA!!  :)
+
+Special thanks to Pen-Pen, a Q3A mapper, who's initial Mario 64 map and texture work inspired me
+to try and build one for Half-Life.
+
+BETA TESTERS:
+babykitkat
+qUiCkSiLvEr
+[USA] Team Members
+Vapor
+SilentRunner007
+Born_To_Kill
+
+OTHER THANKS:
+
+JoNaS           grass skybox
+                Jonas_Jax@hotmail.com
+=======================================================
+DOC'S NEXT MAP....COMING SOON:
+
+kitkat_urban
+=======================================================
+COPYRIGHT STUFF
+
+mario_land.bsp                copyright Oct. 1, 2002 by DocRock
+mario.mdl and luigi.mdl       copyright Sept. 29, 2002 by qUiCkSiLvEr  
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.
+
