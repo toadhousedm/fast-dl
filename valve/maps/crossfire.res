@@ -13,4 +13,6 @@ sprites/usaflagdoc.spr
 /sprites/usat.spr
 maps/crossfire.res
 models/player/noelle/noelle.mdl
+models/player/noelle/noelle.bmp
 models/player/v1/v1.mdl
+models/player/v1/v1.bmp
