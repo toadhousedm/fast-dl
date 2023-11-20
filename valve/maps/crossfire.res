@@ -23,7 +23,7 @@ models/player/Mario64Odyssey/Mario64Odyssey.bmp
 models/player/Steve_Clasico/Steve_Clasico.mdl
 models/player/Steve_Clasico/Steve_Clasico.bmp
 models/player/Alex_Clasica/Alex_Clasica.mdl
-models/player/Alex_Clasica/Alex_Clasica.mdl
+models/player/Alex_Clasica/Alex_Clasica.bmp
 sound/player/playersounds/steve/dead.wav
 models/player/mercenary/mercenary.mdl
 models/player/mercenary/mercenary.bmp
@@ -50,3 +50,9 @@ models/player/TFcivilian/TFcivilian.mdl
 models/player/TFcivilian/TFcivilian.bmp
 models/player/NecoArc/NecoArc.mdl
 models/player/NecoArc/NecoArc.bmp
+models/player/Sonic_Forces_Classic/Sonic_Forces_Classic.mdl
+models/player/Sonic_Forces_Classic/Sonic_Forces_Classic.bmp
+models/player/Helltaker_Modeus/Helltaker_Modeus.mdl
+models/player/Helltaker_Modeus/Helltaker_Modeus.bmp
+models/player/bradlio/bradlio.mdl
+models/player/bradlio/bradlio.bmp
