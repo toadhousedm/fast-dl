@@ -1,0 +1,51 @@
+June 30,2002  TFsniper Team Fortress Skin Converted to HLDM by qUiCkSiLvEr
+=============================================================================
+Title                   : TFsniper - HLDM player model
+Author                  : qUiCkSiLvEr
+
+Web Page                : http://www.mindspring.com/~ottalini/qUiCkSiLvEr.htm
+
+Description             : Converted Model for Half-Life DM
+
+And Special Thanks      : To Demoness for her awesome website and support
+                          be sure to visit www.skinlayer.com
+=============================================================================
+
+This is converted Team Fortress Model (one of a complete set).
+
+Basically I updated the animations.
+
+All of the graphics work was done using Microsoft Imager2,
+Wally, Photostyler, mgi Photosuite, and any other tool that
+let me do what I needed.
+
+All the compiling and decompiling and other bone related work
+was done in Milkshape 1.5.10.
+
+All the texture application was done directly in the very
+nice Half-Life Model Viewer V1.24 by Mete Ciragan.
+
+The total modification took about 1 hour from start to
+finish (I'm getting better at this stuff lol).
+
+Info:
+
+Files included:
+TFsniper.mdl - The HLDM player version of the game TFsniper model file
+TFsniper.bmp - The picture you see when selecting the model in the game
+TFsniper.txt - This text file
+
+Place TFsniper.mdl, TFsniper.bmp, TFsniper.jpg and TFsniper.txt in a
+new folder called TFsniper, in valve\models\player folder in your Half
+Life directory.
+
+** IMPORTANT NOTICE **
+This model should NOT be distributed in any kind of commercial
+compilation, product or package without my personal approval.
+
+This model CAN otherwise be distributed freely as long as this text
+file is included, unmodified, with the package.
+
+And PLEASE don't extract the skin and draw a mustache or remove the
+clothes from it and release it to the world as yours, don't be lame.
+(thanks to NSi for the notice).
