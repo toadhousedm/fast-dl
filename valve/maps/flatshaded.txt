@@ -1,0 +1,94 @@
+FLATSHADED (beta)
+=========================================================================================================
+
+Date                    : 8th August 2004
+Title                   : Flatshaded (beta)
+Filename                : flatshaded.bsp
+Author                  : ReNo [Duncan Blair]
+Email Address           : reno@elva-mod.co.uk , reno@deadpan-studios.co.uk
+ICQ#			: 28651662
+MSN			: renobutsomebassnickedmynick@hotmail.com
+Home Page               : http://evolution.hlgaming.com
+			  http://www.elva-mod.co.uk
+
+Installation Info	: Unzip the contents of this zip to your valve folder and all the files
+			  will go to their correct location.
+
+Map Description         : This map was created for the snarkpit mapping contest. The contest aim was quite
+			  free this time around, but early on the theme of flatshading was discussed and I
+			  took it on board.
+
+			  Please note that due to the deadline I was unable to run VIS fully. This is
+			  despite leaving it to run on netvis with 4 powerful computers for many hours...
+			  its not my fault, blame the hugely open layout and complex brushwork!
+
+Other Works by Author   : [1]  Obsolete...	HLDM
+			  [2]  Elixir...	HLDM
+			  [3]  Rebellion...	HLDM
+			  [4]  CM Arena...	HLDM
+			  [5]  Echo...		HLDM | AGCTF version also available
+			  [6]  Forsaken...	HLDM | AGCTF version also available
+			  [7]  Outland...	AGCTF
+			  [8]  Torrent...	HLDM
+			  [9]  Seneca...	HLDM
+			  [10] Vanguard...	HLDM
+
+			  Check them and more out at the maps page of my site:
+			  http://evolution.hlgaming.com/maps.html
+
+Misc Author Info        : This is my eleventh unique map release. I am a 20 year old currently studying
+			  BSc Computer Games Technology at the University of Abertay in Dundee,
+			  Scotland. Fingers crossed after getting this degree I will become a
+			  fully fledged Level Designer working in the industry :) Outside of level
+			  design I am a skateboarder, rollerblader, ice skater and snowboarder.
+			  I listen to ska/punk/emo music and play a helluva lot of computer games! I
+			  am also a member of a small student games development team based in Dundee...
+			  not that we are currently very active!
+
+
+======================================================================================================
+
+== Play Information ==
+Single Player           : No [1 start]
+Cooperative             : No
+Deathmatch              : Not particularly well, but thats what its for!
+AGCTF			: No
+
+== Construction ==
+Base                    : Scratch
+Editor(s) used          : Valve Hammer 3.5 beta
+
+== Build Machine ==
+AMD Athlon XP 2500+
+512mb Crucial SDRAM
+128mb ATI Radeon 9600XT
+
+
+
+==================================== Thanks... =======================================================
+In no particular order...
+
+	- Friends
+	- Family
+	- All the great HL mapping sites that i learnt from
+	- All the great HL level review sites, past and present
+	- Leperous for running the ever-improving incredible Snarkpit (http://www.snarkpit.co.uk)
+	- Snarkpit forum crew for comments and banter
+	- Everyone involved in the AG mod for improving HLDM (http://www.planethalflife.com/agmod)
+	- My flatmates for trying to get Netvis to compile for 20 hours before I gave up
+	- Anybody who looked at this map and told me their thoughts!
+
+	- Adam Hawkins for a few textures
+	- All the #snarkpit IRC goons for helping with the ill-fated netvis session!
+
+
+
+==Copyright / Permissions==
+Authors MAY NOT use this level as a base to build additional levels.
+
+This map may be distributed ONLY on a "not for profit" basis using any medium,
+provided this file is included with no changes.
+
+Magazines and other published media may use my level provided they ask for my permission.
+
+This template is available from www.globalassault.com.

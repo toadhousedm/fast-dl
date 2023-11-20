@@ -62,3 +62,14 @@ models/player/beavis/beavis.mdl
 models/player/beavis/beavis.bmp
 models/player/homero/homero.mdl
 models/player/homero/homero.bmp
+models/player/SpiderTASM2/SpiderTASM2.mdl
+models/player/SpiderTASM2/SpiderTASM2.bmp
+models/player/tp_colgate/tp_colgate.mdl
+models/player/tp_colgate/tp_colgate.bmp
+models/player/duke/duke.mdl
+models/player/duke/duke.bmp
+models/player/jesus/jesus.mdl
+models/player/B2Caleb/B2Caleb.mdl
+models/player/B2Caleb/B2Caleb.bmp
+models/player/SpongeBob/SpongeBob.mdl
+models/player/SpongeBob/SpongeBob.bmp
