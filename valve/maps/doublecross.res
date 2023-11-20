@@ -84,4 +84,3 @@ models/player/beavis/beavis.mdl
 models/player/beavis/beavis.bmp
 models/player/homero/homero.mdl
 models/player/homero/homero.bmp
-models/player/familyguy_peter_v2/familyguy_peter_v2.mdl
