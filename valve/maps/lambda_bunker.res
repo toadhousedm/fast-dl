@@ -57,7 +57,6 @@ models/player/NecoArc/NecoArc.mdl
 models/player/NecoArc/NecoArc.bmp
 models/player/Sonic_Forces_Classic/Sonic_Forces_Classic.mdl
 models/player/Sonic_Forces_Classic/Sonic_Forces_Classic.bmp
-models/player/Helltaker_Modeus/Helltaker_Modeus.mdl
-models/player/Helltaker_Modeus/Helltaker_Modeus.bmp
+
 models/player/bradlio/bradlio.mdl
 models/player/bradlio/bradlio.bmp
