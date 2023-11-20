@@ -60,6 +60,12 @@ models/player/NecoArc/NecoArc.mdl
 models/player/NecoArc/NecoArc.bmp
 models/player/Sonic_Forces_Classic/Sonic_Forces_Classic.mdl
 models/player/Sonic_Forces_Classic/Sonic_Forces_Classic.bmp
-
 models/player/bradlio/bradlio.mdl
 models/player/bradlio/bradlio.bmp
+models/player/butthead/butthead.mdl
+models/player/butthead/butthead.bmp
+models/player/beavis/beavis.mdl
+models/player/beavis/beavis.bmp
+models/player/homero/homero.mdl
+models/player/homero/homero.bmp
+models/player/familyguy_peter_v2/familyguy_peter_v2.mdl
