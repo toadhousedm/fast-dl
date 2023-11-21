@@ -1,0 +1,14 @@
+// overview description file for mk64bfrt.bsp
+
+global
+{
+	ZOOM	2.08
+	ORIGIN	0	0	-1
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/mk64bfrt.tga"
+	HEIGHT	-1
+}
