@@ -89,3 +89,9 @@ sound/player/playersounds/steve/dead.wav
 sound/player/playersounds/tails/jump1.wav
 sound/player/playersounds/tails/longjump2.wav
 sound/player/playersounds/tails/lostring1.wav
+models/player/pepsiman2/pepsiman2.mdl
+models/player/pepsiman2/pepsiman2.bmp
+models/player/PTEPOPUKO/PTEPOPUKO.mdl
+models/player/PTEPOPUKO/PTEPOPUKO.bmp
+models/player/PTEPIMIMI/PTEPIMIMI.mdl
+models/player/PTEPIMIMI/PTEPIMIMI.bmp

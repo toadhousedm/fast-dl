@@ -85,4 +85,9 @@ models/player/YoRHa_2B/YoRHa_2B.bmp
 sound/player/playersounds/steve/dead.wav
 sound/player/playersounds/tails/jump1.wav
 sound/player/playersounds/tails/longjump2.wav
-sound/player/playersounds/tails/lostring1.wav
+sound/player/playersounds/tails/lostring1.wavmodels/player/pepsiman2/pepsiman2.mdl
+models/player/pepsiman2/pepsiman2.bmp
+models/player/PTEPOPUKO/PTEPOPUKO.mdl
+models/player/PTEPOPUKO/PTEPOPUKO.bmp
+models/player/PTEPIMIMI/PTEPIMIMI.mdl
+models/player/PTEPIMIMI/PTEPIMIMI.bmp
