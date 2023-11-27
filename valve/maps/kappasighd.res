@@ -238,3 +238,13 @@ sound/AQS/vox/ludicrouskill.wav
 sound/AQS/vox/maniac.wav
 sound/AQS/vox/massacre.wav
 sound/AQS/vox/megakill.wav
+models/player/pumpkin/pumpkin.mdl
+models/player/pumpkin/pumpkin.bmp
+models/player/santa/santa.mdl
+models/player/santa/santa.bmp
+models/player/homestar/homestar.mdl
+models/player/homestar/homestar.bmp
+models/player/sp_phillip/sp_phillip.mdl
+models/player/sp_phillip/sp_phillip.bmp
+models/player/sp_terrance/sp_terrance.mdl
+models/player/sp_terrance/sp_terrance.bmp
