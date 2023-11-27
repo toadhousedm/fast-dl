@@ -1,0 +1,17 @@
+// overview description file for DocRock's nook_rats.bsp
+//  Overview: Zoom 1.01, Map Origin (-568.00, 751.50, -1184.00), Z Min 1409.00, Z Max -3777.00, Rotated 1
+// put this file and the bmp into the valve\overviews directory
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.01
+	ORIGIN	-568 751.5 -1184
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/nook_rats.bmp"
+	HEIGHT	-3777
+}

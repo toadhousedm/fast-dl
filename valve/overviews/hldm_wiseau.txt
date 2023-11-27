@@ -1,0 +1,14 @@
+// overview description file for dmc_wiseau.bsp
+
+global 
+{
+	ZOOM	1.41
+	ORIGIN	1870.58 	-419.23	 320
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dmc_wiseau.bmp"
+	HEIGHT	720
+}

@@ -1,0 +1,29 @@
+██╗  ██╗██╗     ██████╗ ███╗   ███╗        ██╗    ██╗██╗███████╗███████╗ █████╗ ██╗   ██╗
+██║  ██║██║     ██╔══██╗████╗ ████║        ██║    ██║██║██╔════╝██╔════╝██╔══██╗██║   ██║
+███████║██║     ██║  ██║██╔████╔██║        ██║ █╗ ██║██║███████╗█████╗  ███████║██║   ██║
+██╔══██║██║     ██║  ██║██║╚██╔╝██║        ██║███╗██║██║╚════██║██╔══╝  ██╔══██║██║   ██║
+██║  ██║███████╗██████╔╝██║ ╚═╝ ██║███████╗╚███╔███╔╝██║███████║███████╗██║  ██║╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝     ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
+
+=== HLDM_WISEAU for Half-Life Deathmatch by AlphaBlaster ===
+CONTACT: @alphablaster on Discord
+WEBSITE: https://redchanit.xyz/
+
+Description: This is a from-scratch and from-memory recreation of dm_wiseau from Open Fortress / TF2Classic, originally by MacD11 and iiboharz. It is a very faithful adaptation of the original map transcribed to the world of DMC in that it still maintains the warehouse themeing and keeps almost all of the layout intact, save for a few small changes such as the Displacer Cannon room which I felt needed to be refitted, and for the ladders which DMC lacks, prompting me to in turn use a number of carefully-placed staircases instead.
+
+Try shooting the E on the Wiseau Warewhouse sign!
+
+This is the HLDM version of the DMC map, which is modified to use HLDM weapon spawns. 
+
+Map info:
+Time to make: About four days off and on, spread from early August to late November after the HL anniversary motivated me to finish this.
+Compile time: 24.96 seconds
+Editor used: J.A.C.K. Hammer
+
+Entity Statistics:
+35 Deathmatch spawns, 1 Singleplayer spawn.
+
+
+HLDM SERVER HOSTS:
+Do this map justice please and be sure to include the DMC skybox in your FastDL. It'll look like shit with the default canyon skybox. Please.
+Also be sure to put DMC.wad in your FastDL and server directory.

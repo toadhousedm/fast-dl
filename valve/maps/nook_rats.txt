@@ -1,0 +1,70 @@
+Nook_Rats
+
+Map Name:	nook_rats.bsp
+Author:            	DocRock
+Author email:  	docrock10@hotmail.com
+
+
+wadincluded:	nook.wad
+
+===========================================================
+LEVEL DESCRIPTION:
+
+A Half-Life death match level based on Animal Crossing: New Horizon's Tom Nook's Residential Services building interior. 
+
+ 
+===========================================================
+CONSTRUCTION:
+
+base map:	none
+editor used:          Worldcraft 3.4 SDK
+utilities used:         Vluzacn's v29 compile tools, paint, wally
+
+compile machine:   Shuttle R8 Z1700 V2
+		Intel(R) Core(TM) i7-7700K CPU @4.20GHz 4.2 Ghz
+		64 GM Ram
+		64-bit, x64 based processor
+		Windows 10 Home
+
+compile time:         3 minutes
+
+===========================================================
+INSTALLATION:
+
+Unzip nook_rats
+
+Take the 6 skyline.tga files and place them in
+	valve/gfx/env
+Take the nook_rats.bsp, nook_rats.res, and nook_rats.txt and place them in
+	valve/maps
+Take the nook folder from the models folder and place it in
+	valve/models
+Take the nook folder from the sound folder and place it in
+	valve/sound
+Take the nook folder from the sprites folder and place it in
+	valve/sprites
+
+===========================================================
+SPECIAL THANKS:
+
+babykitkat
+	My love, my sweetheart, my wife.  I love you!!  Thanks baby for everything!
+qUiCkSiLvEr
+	My good friend.  Thank you for your unending help and support to make these maps the best possible!
+
+freesound.org
+	for free access to sound effects
+
+===========================================================
+COPYRIGHT STUFF
+
+nook_rats by DocRock
+	April 15, 2021
+
+
+
+
+
+
+
+
