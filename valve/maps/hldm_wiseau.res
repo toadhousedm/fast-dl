@@ -13,6 +13,7 @@ gfx/env/dmcwrt.tga
 gfx/env/dmcwup.tga
 overviews/hldm_wiseau.tga
 overviews/hldm_wiseau.txt
+maps/hldm_wiseau.bsp
 models/player/noelle/noelle.mdl
 models/player/noelle/noelle.bmp
 models/player/v1/v1.mdl
