@@ -1,0 +1,16 @@
+=== HLDM_2Fort for Half-Life DM by AlphaBlaster ===
+CONTACT: @alphablaster on Discord
+WEBSITE: https://redchanit.xyz/
+
+Description: This is a Deathmatch Classic conversion of Valve's 2Fort for TFC. Nothing too special. I changed the skybox and lighting, gutted the spawnrooms, sealed off the flag basements, added weapon spawners, some ambient sounds, etc.
+This was inspired by and is heavily based on the Open Fortress / TF2Classic dm_2fort and its weapon placements and layout changes.
+
+This is the HLDM port of my DMC edit of 2Fort. Same map, different weapons and items.
+
+Map info:
+Time to make: About 3 hours (It's simply a modified version of 2Fort)
+Compile time: 17.79 seconds
+Editor used: J.A.C.K. Hammer
+
+Entity Statistics:
+24 Deathmatch spawns, 1 Singleplayer spawn.
